@@ -1,7 +1,7 @@
-```java
+
 import java.util.*;
 
-public class FeeSortingSystem {
+class FeeSortingSystem {
 
     // Transaction class
     static class Transaction {
@@ -109,5 +109,3 @@ public class FeeSortingSystem {
         System.out.println("High-fee Outliers: " + outliers);
     }
 }
-```
-
